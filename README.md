@@ -1,3 +1,4 @@
+[![GitHub license](https://img.shields.io/github/license/larasous/Product-Inventory-Management)](https://github.com/larasous/Product-Inventory-Management/blob/main/LICENSE)
 # Product-Inventory-Management
 O system allows you to perform the following operations: register, list, search, update and remove products.
 
@@ -47,5 +48,3 @@ Feito com ❤️ por Lara Sousa. Entre em contato!
 
 [![Linkedin Badge](https://img.shields.io/badge/-Lara-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lara-sousa-a365a9205/)](https://www.linkedin.com/in/lara-sousa-a365a9205/) 
 [![Gmail Badge](https://img.shields.io/badge/-sousalara822@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sousalara822@gmail.com)](mailto:sousalara822@gmail.com)
-
-[![GitHub license](https://img.shields.io/github/license/larasous/Product-Inventory-Management)](https://github.com/larasous/Product-Inventory-Management/blob/main/LICENSE)
